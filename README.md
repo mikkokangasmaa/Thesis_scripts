@@ -24,8 +24,8 @@ Description: Basic data editing, aggregation, and grouping for CSV files downloa
 
 Description: Provides data editing, aggregation, and plotting capabilities for Strava Metro CSV files.
 
-**5. Counter Strava
-**
+**5. Counter Strava**
+
 Description: Data editing script designed to combine and compare Strava data with counter data for comprehensive analysis.
 
 **6. RidewithGPS Edit**
