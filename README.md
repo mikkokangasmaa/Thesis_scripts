@@ -1,5 +1,5 @@
-**Thesis Scripts
-**
+**Thesis Scripts**
+
 A collection of scripts used during the development of my thesis. While not all were included in the final work, they serve as useful tools for data scraping, editing, and analysis, particularly in the context of cycling route data. Many scripts contain basic data editing and they were not cleaned in any way and might appear quite messy. 
 
 **Scripts Overview**
