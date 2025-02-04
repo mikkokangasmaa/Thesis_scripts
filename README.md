@@ -1,6 +1,6 @@
 **Thesis Scripts**
 
-A collection of scripts used during the development of my thesis. While not all were included in the final work, they serve as useful tools for data scraping, editing, and analysis, particularly in the context of cycling route data. Many scripts contain basic data editing and they were not cleaned in any way and might appear quite messy. 
+A collection of scripts used during the development of my thesis. All were not included in the final work, however they serve as useful tools for data scraping, editing, and analysis, particularly in the context of cycling route data. Many scripts contain basic data editing and they were not cleaned in any way and might appear quite messy. 
 
 **Scripts Overview**
 
@@ -26,7 +26,7 @@ Description: Provides data editing, aggregation, and plotting capabilities for S
 
 **5. Counter Strava**
 
-Description: Data editing script designed to combine and compare Strava data with counter data for comprehensive analysis.
+Description: Data editing script designed to combine and compare Strava data with counter data.
 
 **6. RidewithGPS Edit**
 
